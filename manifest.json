@@ -1,0 +1,25 @@
+{
+  "name": "Juno Voice",
+  "display-name": "来自CBDD的Juno同学",
+  "avatar": "avatar.jpg",
+  "avatar-dark": "avatar.jpg",
+  "version": "0.0.1",
+  "description": "VSCode Juno语音包扩展",
+  "author": "Juno& Kotori",
+  "gender": "female",
+  "locale": "cn",
+  "languages": [
+    "Python"
+  ],
+  "contributes": [
+    {
+      "keywords": [
+        "import"
+      ],
+      "voices": [
+        "import_01.mp3",
+        "import_02.mp3"
+      ]
+    }
+  ]
+}
